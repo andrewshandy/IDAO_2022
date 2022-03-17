@@ -1,3 +1,4 @@
-# IDAO_2022
+## IDAO_2022
 data_preprocess.ipynb - preprocess the dataset
-prediction - load preprocessed dataset, train a model, and predict for a test
+
+prediction.ipynb - load preprocessed dataset, train a model, and predict for a test
